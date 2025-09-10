@@ -28,7 +28,7 @@
 <tr>
 <td align="center" width="50%">
   <a href="https://ykhomefoods.com">
-    <img src="https://via.placeholder.com/400x200.png?text=E-Commerce+Platform" alt="E-Commerce Platform"/>
+    <img src="https://placehold.co/400x200?text=E-Commerce+Platform" alt="E-Commerce Platform"/>
   </a>
   <br>
   <b>🛒 YKHomeFoods</b><br>
@@ -38,7 +38,7 @@
 
 <td align="center" width="50%">
   <a href="https://github.com/Gthamsrim1/cold-chain-analyzer">
-    <img src="https://via.placeholder.com/400x200.png?text=Cold+Chain+Visualization" alt="Cold Chain"/>
+    <img src="https://placehold.co/400x200?text=Cold+Chain+Visualization" alt="Cold Chain"/>
   </a>
   <br>
   <b>📦 Cold Chain Supply Analysis</b><br>
@@ -50,7 +50,7 @@
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/Gthamsrim1/Universal-Ticket-Booking">
-    <img src="https://via.placeholder.com/400x200.png?text=Ticket+Booking+System" alt="Booking System"/>
+    <img src="https://placehold.co/400x200?text=Ticket+Booking+System" alt="Booking System"/>
   </a>
   <br>
   <b>🎟️ Multi-Domain Ticket Booking</b><br>
@@ -60,7 +60,7 @@
 
 <td align="center" width="50%">
   <a href="https://github.com/Gthamsrim1/heart-rate-monitor">
-    <img src="https://via.placeholder.com/400x200.png?text=Heart+Rate+Monitor" alt="Heart Rate"/>
+    <img src="https://placehold.co/400x200?text=Heart+Rate+Monitor" alt="Heart Rate"/>
   </a>
   <br>
   <b>💓 Webcam-Based Heart Rate Monitor</b><br>
