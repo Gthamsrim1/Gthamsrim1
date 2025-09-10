@@ -37,7 +37,7 @@
 </td>
 
 <td align="center" width="50%">
-  <a href="https://github.com/Gthamsrim1/cold-chain-analysis">
+  <a href="https://github.com/Gthamsrim1/cold-chain-analyzer">
     <img src="https://via.placeholder.com/400x200.png?text=Cold+Chain+Visualization" alt="Cold Chain"/>
   </a>
   <br>
@@ -49,7 +49,7 @@
 
 <tr>
 <td align="center" width="50%">
-  <a href="https://github.com/Gthamsrim1/ticket-booking">
+  <a href="https://github.com/Gthamsrim1/Universal-Ticket-Booking">
     <img src="https://via.placeholder.com/400x200.png?text=Ticket+Booking+System" alt="Booking System"/>
   </a>
   <br>
@@ -86,7 +86,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/gautham-sriram-bb0b89334/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/Gthamsrim1"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="mailto:gauthamsriram16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
